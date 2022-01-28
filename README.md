@@ -10,9 +10,11 @@ Software:
 VS Code,
 Github Repository,
 Zoom
+Slack
+WhatsApp
 
 Team Members:
-Adja,
-Benjamin,
-Courtney,
-Nelson
+Adja -> bernitos_diparma@yahoo.it,
+Benjamin -> benjamin.huerta.awi@gmail.com,
+Courtney -> lothlorienexplorer20@gmail.com,
+Nelson -> alexanortega@gmail.com
