@@ -7,11 +7,11 @@ Project Structure:
 ![this image](https://github.com/drnodev/cse210-02/blob/main/class.png)
 
 Software: 
-VS Code
-Github Repository
+VS Code,
+Github Repository,
 
 Team Members:
-Adja
-Benjamin
-Courtney
+Adja,
+Benjamin,
+Courtney,
 Nelson
