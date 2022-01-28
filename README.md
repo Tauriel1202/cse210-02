@@ -9,6 +9,7 @@ Project Structure:
 Software: 
 VS Code,
 Github Repository,
+Zoom
 
 Team Members:
 Adja,
